@@ -1,0 +1,15 @@
+{
+  "name": "better-commit-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "git",
+    "commit",
+    "better-commit",
+    "cli",
+    "examples"
+  ],
+  "author": "Alek Merani",
+  "license": "MIT"
+}
