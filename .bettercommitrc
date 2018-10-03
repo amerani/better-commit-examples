@@ -2,7 +2,7 @@
     "plugins": [
         "localPlugin",
         "poop",
-        "!prepend-branch"
+        "!prepend-branch",
         "!autocorrect"
     ]
 }

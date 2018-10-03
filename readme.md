@@ -1,5 +1,5 @@
 # better-commit-examples
-examples of using the `better-commit` plugin system
+examples of using the [`better-commit`](https://github.com/amerani/better-commit) plugin system
 
 ## configuration
 [`.bettercommitrc`](./.bettercommitrc)
