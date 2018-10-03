@@ -13,7 +13,7 @@
   "author": "Alek Merani",
   "license": "MIT",
   "devDependencies": {
-    "better-commit": "^1.1.0",
+    "better-commit": "^1.3.0",
     "better-commit-poop": "^1.0.1"
   }
 }
