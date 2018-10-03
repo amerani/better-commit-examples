@@ -3,5 +3,6 @@
         "localPlugin",
         "poop",
         "!prepend-branch"
+        "!autocorrect"
     ]
 }
